@@ -1,10 +1,9 @@
-//FizzBuzz 
+//FizzBuz
 function check(x:number)
 {
     if(x%3== 0&& x%5==0)
     {
         console.log("FizzBuzz")
-        
     }
     else if(x%5==0)
     {
@@ -23,5 +22,4 @@ function check(x:number)
 for(let i=1;i<=100;i++)
 {
    check(i)
-
 }
