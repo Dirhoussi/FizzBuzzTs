@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzzts",
+  "version": "1.0.0",
+  "description": "<b>Simple application of typescript checked by tslint</b>",
+  "main": "FizzBuzz.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dirhoussi/FizzBuzzTs.git"
+  },
+  "author": "DIRHOUSSI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dirhoussi/FizzBuzzTs/issues"
+  },
+  "homepage": "https://github.com/Dirhoussi/FizzBuzzTs#readme"
+}
