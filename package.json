@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Dirhoussi/FizzBuzzTs/issues"
   },
-  "homepage": "https://github.com/Dirhoussi/FizzBuzzTs#readme"
+  "homepage": "https://github.com/Dirhoussi/FizzBuzzTs#readme",
+  "devDependencies": {
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  }
 }
