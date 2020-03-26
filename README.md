@@ -10,4 +10,6 @@ multiples of both three and five print “FizzBuzz”.
 To get this application worked you should install<b> Node.js</b>
 install it on this link
 <a href="https://nodejs.org/en/">Node.js home page</a>
+and also install typescript on this <a href="https://www.typescriptlang.org/#download-links">link</a>
+
 
