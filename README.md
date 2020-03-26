@@ -7,12 +7,7 @@ multiples of both three and five print “FizzBuzz”.
 
 <b>Execute the application</b>
 
-To get this application worked you should install the following
-packages respecting this order in order to avoid problems 
+To get this application worked you should install<b> Node.js</b>
+install it on this link
+<a href="https://nodejs.org/en/">Node.js home page</a>
 
-<p>
-sudo apt install -y ruby-dev<br>
-sudo gem install json<br>
-apt install npm<br>
-npm install -g typescript<br>
-</p>
