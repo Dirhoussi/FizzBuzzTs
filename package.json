@@ -5,8 +5,9 @@
   "main": "src/FizzBuzz.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"tsc --outDir ./build",
-    "lint":"tslint -c tslint.json 'src/**/*.ts'"
+    "build":"./node_modules/.bin/tsc --outDir ./build",
+    "lint":"tslint -c tslint.json 'src/**/*.ts'",
+    "start": "ts-node ./src/FizzBuzz.ts"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,7 @@
   },
   "homepage": "https://github.com/Dirhoussi/FizzBuzzTs#readme",
   "devDependencies": {
-    "tslint": "^6.1.0",
-    "typescript": "^3.8.3"
+    "tslint": "6.1.0",
+    "typescript": "3.8.3"
   }
 }
